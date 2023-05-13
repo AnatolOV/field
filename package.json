@@ -1,5 +1,5 @@
 {
-  "name": "ff",
+  "name": "field",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,11 +11,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnatolOV/mesto.git"
+    "url": "git+https://github.com/AnatolOV/field.git"
   },
   "author": "Oleinikov Anatoliy",
   "license": "ISC",
-  "homepage": "https://github.com/AnatolOV/mesto#readme",
+  "homepage": "https://github.com/AnatolOV/field#readme",
   "devDependencies": {
     "@babel/core": "^7.19.0",
     "@babel/preset-env": "^7.19.0",
@@ -36,6 +36,6 @@
     "core-js": "^3.25.1"
   },
   "bugs": {
-    "url": "https://github.com/AnatolOV/mesto/issues"
+    "url": "https://github.com/AnatolOV/field/issues"
   }
 }
